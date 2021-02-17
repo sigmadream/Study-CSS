@@ -1,0 +1,22 @@
+{
+  "name": "study-css",
+  "version": "1.0.0",
+  "description": "study-css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sigmadream/study-css.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sigmadream/study-css/issues"
+  },
+  "homepage": "https://github.com/sigmadream/study-css#readme",
+  "dependencies": {
+    "sass": "^1.32.7"
+  }
+}
